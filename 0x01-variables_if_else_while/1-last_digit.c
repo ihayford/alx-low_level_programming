@@ -1,3 +1,7 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+
 /**
  * main - Find last digit of any sandomly generated number
  * Is number greater than 5, more or equla to 0
