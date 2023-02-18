@@ -1,6 +1,7 @@
 /**
  * main - Find last digit of any randmoly generated number.
- * Determine if its greater tha 5, its less than 6 or the number is zero
+ * Determine whether the number is greater tha 5,
+*its less than 6 or the number is zero
  *
  * Return: Always 0.
  */
